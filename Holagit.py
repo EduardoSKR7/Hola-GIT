@@ -1,2 +1,2 @@
 print ("Hola Git")
-print ("1 mas uno")
+print ("hola 1 mas uno")
